@@ -2,5 +2,6 @@
 
 |  Day  | Title                | Pt 1  | Pt 2  |
 | :---: | -------------------- | :---: | :---: |
-|  01   | Calorie Counting     |   o   |   o   |
+|  01   | Calorie Counting     |   x   |   x   |
+|  02   | Rock Paper Scissors  |   o   |   o   |
 
